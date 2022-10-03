@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:6704E5,100:E50E42&height=130&section=footer&fontColor=FFFFFF&text=Hello%20there!%20👋&fontSize=30&reversal=true&fontAlignY=70)
 
 <hr/>
-<h2>Profile</h2>
-<p>
+<h2>😎 Profile</h2>
+<h3>
   I am Smart. Logic, patience, communication, and attention to detail are my underlying strengths. I am passionate about innovating, designing, and building great products in software and hardware engineering with optimum user satisfaction, ergonomics, benefaction, and man's problem resolutions.
-</p>
+</h3>
 
 <hr/>
 <h2>🌐 Socials:</h2>
@@ -18,8 +18,8 @@
  <h2>📊 GitHub Stats</h2>
  
 ![](https://github-readme-stats.vercel.app/api?username=Smartech-git&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Smartech-git&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartech-git&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact&align=center)
+
 
 
 
