@@ -17,8 +17,8 @@
   
  <h2>📊 GitHub Stats</h2>
  
-![](https://github-readme-stats.vercel.app/api?username=Smartech-git&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartech-git&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact&align=center)
+![](https://github-readme-stats.vercel.app/api?username=Smartech-git&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&line_height=20&card_width=350px)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartech-git&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
