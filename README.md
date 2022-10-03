@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:6704E5,100:E50E42&height=130&section=footer&fontColor=FFFFFF&text=Hello%20there!%20👋&fontSize=30&reversal=true&fontAlignY=70)
+![Frame 1 (10)](https://user-images.githubusercontent.com/69016682/193660750-67bc0d34-0148-4818-a6b7-8f6ff28af01b.png)
+
 
 <hr/>
 <h2>😎 Profile</h2>
@@ -20,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Smartech-git&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&line_height=20&card_width=350px)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartech-git&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:6704E5,100:E50E42&height=130&section=footer&fontColor=FFFFFF&fontSize=30&reversal=true&fontAlignY=70)
 
 
 
