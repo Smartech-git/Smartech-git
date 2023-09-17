@@ -26,9 +26,11 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Smartech-git&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&line_height=20&card_width=400px&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Smartech-git&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&line_height=25&card_width=460px&show_icons=true&rank_icon=github)
 ![Ghost (1)](https://user-images.githubusercontent.com/69016682/194752975-3aca82ca-591d-46c9-b2cd-f4ce0f79fb5d.png)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartech-git&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Smartech-git's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Smartech-git&theme=synthwave&hide_border=true&card_width=450px)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartech-git&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=970)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:6704E5,100:E50E42&height=130&section=footer&fontColor=FFFFFF&fontSize=30&reversal=true&fontAlignY=70)
 
