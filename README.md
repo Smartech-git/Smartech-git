@@ -1,6 +1,3 @@
-![Frame 1](https://user-images.githubusercontent.com/69016682/194749902-0c80f3db-ca4a-4cab-a30a-1ae1badb4d67.png)
-
-
 
 <hr/>
 
